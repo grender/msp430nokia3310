@@ -1,0 +1,7 @@
+#Mon Jan 07 23:13:47 MSK 2013
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019604700/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019604700/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019604700/PATH/value=/usr/local/msp430-toolchain/bin\:/usr/bin\:/bin\:/usr/sbin\:/sbin\:/usr/local/bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019604700/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.1019604700/appendContributed=true
