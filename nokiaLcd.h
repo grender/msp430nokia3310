@@ -28,7 +28,7 @@
 
 void LCDSend(unsigned char,unsigned char);
 void LCDClear(void);
-void LCDInit(void);
+void LCDInit(unsigned char isVerticalAddresing,unsigned char contrast);
 void LCDBlack(void);
 void LCDChar(unsigned char);
 void LCDCurs(unsigned char,unsigned char);
